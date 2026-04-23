@@ -1,0 +1,23 @@
+{
+  "name": "Voltra Nexus",
+  "version": "15.2",
+  "main": "Index",
+  "scripts": {
+    "start": "node Index.js"
+  },
+   "dependencies": {
+    "baileys": "npm:@kyuu2nd/baileys",
+    "chalk": "^4.1.2",
+    "cookie-parser": "^1.4.6",
+    "crypto": "latest",
+    "express": "^4.18.2",
+    "fs": "latest",
+    "grammy": "^1.38.2",
+    "moment-timezone": "latest",
+    "pino": "^9.5.0",
+    "cors": "^2.8.5",
+    "adm-zip": "^0.5.12",
+    "tar": "^7.4.3",
+    "telegraf": "^4.16.3"
+  }
+}
